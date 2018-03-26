@@ -1,0 +1,76 @@
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: #f7f7f7;
+    border-top: 20px solid #555555;
+    margin: 30px auto;
+    width: 60%;
+    line-height: 1.5;
+    
+    }
+
+
+    /* nav */
+
+NAV{
+    text-align: center;
+    padding: 20px;
+}
+
+nav li{
+    color: #555555;
+    text-align: center;
+    display: inline;
+    text-align: center;
+}
+
+ul{
+    list-style: square;
+}
+
+
+.nav_special{
+    list-style: none;
+}
+
+ 
+.not_current{
+    list-style: none;
+    display: inline;
+}
+
+.current_page{ 
+    font-style: italic;
+    font-weight: bold;
+    color: #555555;
+    list-style: none;
+    display: inline;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #253b80;
+    margin-top: 0;
+}
+
+.contentt{
+    list-style: square;
+}
+
+.example{
+    padding: 5px;
+    border: 5px solid blueviolet
+}
+
+h4{
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+hr{
+    margin: 30px;
+}
